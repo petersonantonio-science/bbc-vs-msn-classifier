@@ -1,7 +1,5 @@
 statsbombpy
 mplsoccer
-SoccerNet
-pyocclient
 opencv-python
 Pillow
 pandas>=2.0
