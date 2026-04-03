@@ -23,7 +23,7 @@ PATHS = {
 # Jogadores e trios
 # ------------------------------------------------------------
 BBC_PLAYERS = ['Gareth Frank Bale', 'Karim Benzema', 'Cristiano Ronaldo dos Santos Aveiro']
-MSN_PLAYERS = ['Lionel Andrés Messi Cuccittini', 'Neymar da Silva Santos Júnior', 'Luis Alberto Suárez Díaz']
+MSN_PLAYERS = ['Lionel Andrés Messi Cuccittini', 'Neymar da Silva Santos Junior', 'Luis Alberto Suárez Díaz']
 ALL_PLAYERS = BBC_PLAYERS + MSN_PLAYERS
 
 PLAYER_TRIO = {
@@ -31,7 +31,7 @@ PLAYER_TRIO = {
     'Karim Benzema'    : 'BBC',
     'Cristiano Ronaldo dos Santos Aveiro': 'BBC',
     'Lionel Andrés Messi Cuccittini'     : 'MSN',
-    'Neymar da Silva Santos Júnior'       : 'MSN',
+    'Neymar da Silva Santos Junior'       : 'MSN',
     'Luis Alberto Suárez Díaz'      : 'MSN',
 }
 
@@ -40,7 +40,7 @@ PLAYER_TEAM = {
     'Karim Benzema'    : 'Real Madrid',
     'Cristiano Ronaldo dos Santos Aveiro': 'Real Madrid',
     'Lionel Andrés Messi Cuccittini'     : 'Barcelona',
-    'Neymar da Silva Santos Júnior'       : 'Barcelona',
+    'Neymar da Silva Santos Junior'       : 'Barcelona',
     'Luis Alberto Suárez Díaz'      : 'Barcelona',
 }
 
@@ -49,7 +49,7 @@ PLAYER_COLORS = {
     'Karim Benzema'    : '#C0C0C0',  # Real Madrid prata
     'Cristiano Ronaldo dos Santos Aveiro': '#00529F',  # Real Madrid azul
     'Lionel Andrés Messi Cuccittini'     : '#A50044',  # Barcelona vermelho
-    'Neymar da Silva Santos Júnior'       : '#004D98',  # Barcelona azul
+    'Neymar da Silva Santos Junior'       : '#004D98',  # Barcelona azul
     'Luis Alberto Suárez Díaz'      : '#EDBB00',  # Barcelona amarelo
 }
 
@@ -123,7 +123,7 @@ PLAYER_SLUG = {
     'Karim Benzema'                      : 'karim_benzema',
     'Cristiano Ronaldo dos Santos Aveiro': 'cristiano_ronaldo_dos_santos_aveiro',
     'Lionel Andrés Messi Cuccittini'     : 'lionel_andres_messi_cuccittini',
-    'Neymar da Silva Santos Júnior'      : 'neymar_da_silva_santos_junior',
+    'Neymar da Silva Santos Junior'      : 'neymar_da_silva_santos_junior',
     'Luis Alberto Suárez Díaz'           : 'luis_alberto_suarez_diaz',
 }
 
