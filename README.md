@@ -230,3 +230,12 @@ Temporal context must be assembled externally.
 - Only annotation JSONs and code are versioned
 
 *Data source: StatsBomb Open Data - statsbomb.com*
+---
+
+## Author
+
+**Peterson Antonio**  
+Sports Scientist & Developer  
+Brazil  
+
+[![GitHub](https://img.shields.io/badge/GitHub-petersonantonio--science-181717?logo=github)](https://github.com/petersonantonio-science)
