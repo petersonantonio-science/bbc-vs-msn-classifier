@@ -239,3 +239,4 @@ Sports Scientist & Developer
 Brazil  
 
 [![GitHub](https://img.shields.io/badge/GitHub-petersonantonio--science-181717?logo=github)](https://github.com/petersonantonio-science)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peterson%20Antonio-0077B5?logo=linkedin)](https://www.linkedin.com/in/peterson-antonio-50776b246/)
