@@ -1,10 +1,17 @@
-# Videos — nao versionar (direitos autorais SoccerNet)
+# Videos SoccerNet — nao versionar (direitos autorais)
 data/raw/
+
+# Frames extraidos — nao versionar (gerados pelo extractor.py)
 data/frames/
 
-# Manter estrutura vazia no Git
-!data/raw/.gitkeep
-!data/frames/.gitkeep
+# Manter estrutura de pastas no Git
+!data/raw/spain_laliga/
+!data/raw/spain_laliga/2015-2016/
+!data/raw/spain_laliga/2015-2016/.gitkeep
+!data/raw/europe_uefa-champions-league/
+!data/raw/europe_uefa-champions-league/2015-2016/
+!data/raw/europe_uefa-champions-league/2015-2016/.gitkeep
+!data/frames/**/.gitkeep
 
 # Senha SoccerNet — NUNCA versionar
 soccernet_key.txt
