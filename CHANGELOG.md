@@ -1,6 +1,6 @@
 # Changelog
 
-## [v0.2.0] - 2025 (in progress)
+## [v0.2.0] - 2026 (in progress)
 
 ### Added
 - Real-ESRGAN 4x upscale pipeline for frame quality improvement
@@ -20,7 +20,7 @@
 
 ---
 
-## [v0.1.0] - 2025
+## [v0.1.0] - 2026
 
 ### Added
 - Full setup notebook (Google Colab, sections 1-6)
