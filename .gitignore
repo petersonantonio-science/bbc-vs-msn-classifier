@@ -1,0 +1,32 @@
+# Videos — nao versionar (direitos autorais SoccerNet)
+data/raw/
+data/frames/
+
+# Manter estrutura vazia no Git
+!data/raw/.gitkeep
+!data/frames/.gitkeep
+
+# Senha SoccerNet — NUNCA versionar
+soccernet_key.txt
+soccernet_key.gdoc
+*.gdoc
+
+# CSVs grandes de eventos — gerados pelo notebook
+data/statsbomb/events/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google Colab
+drive/

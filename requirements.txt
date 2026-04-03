@@ -1,0 +1,13 @@
+statsbombpy
+mplsoccer
+SoccerNet
+pyocclient
+opencv-python
+Pillow
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+moondream
+tqdm
+requests
