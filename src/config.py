@@ -113,3 +113,25 @@ MOONDREAM_PROMPTS = {
         "do jogador com a bola? Responda apenas com o número."
     ),
 }
+# ------------------------------------------------------------
+# Mapeamento jogador → slug de pasta
+# Usado pelo extractor.py para montar caminhos de frames
+# Sem acentos, espaços substituídos por underscore
+# ------------------------------------------------------------
+PLAYER_SLUG = {
+    'Gareth Frank Bale'                  : 'gareth_frank_bale',
+    'Karim Benzema'                      : 'karim_benzema',
+    'Cristiano Ronaldo dos Santos Aveiro': 'cristiano_ronaldo_dos_santos_aveiro',
+    'Lionel Andrés Messi Cuccittini'     : 'lionel_andres_messi_cuccittini',
+    'Neymar da Silva Santos Júnior'      : 'neymar_da_silva_santos_junior',
+    'Luis Alberto Suárez Díaz'           : 'luis_alberto_suarez_diaz',
+}
+
+# Mapeamento slug → nome completo (inverso)
+SLUG_PLAYER = {v: k for k, v in PLAYER_SLUG.items()}
+
+# Mapeamento liga → pasta SoccerNet
+LEAGUE_FOLDER = {
+    'laliga': 'spain_laliga',
+    'ucl'   : 'europe_uefa-champions-league',
+}
